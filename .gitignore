@@ -1,0 +1,30 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build directories
+out/
+build/
+bin/
+obj/
+
+# Compiled Binaries & Symbols
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+*.pdb
+*.ilk
+*.exp
+
+# ImGui runtime state
+imgui.ini
+
+# OS files
+.DS_Store
+Thumbs.db
